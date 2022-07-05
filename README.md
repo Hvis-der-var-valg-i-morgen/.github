@@ -1,6 +1,6 @@
 # Hvis der var valg i morgen
 
-Organisation for projektet *Hvis der var valg i morgen* som deler viden om statistiske sammenhænge mellem meningsmålinger og valg i Danmark. Du kan finde mere information på [projektets hjemmeside|www.hvisdervarvalgimorgen.dk].
+Organisation for projektet *Hvis der var valg i morgen* som deler viden om statistiske sammenhænge mellem meningsmålinger og valg i Danmark. Du kan finde mere information på [projektets hjemmeside](www.hvisdervarvalgimorgen.dk).
 
 ## International description
 
